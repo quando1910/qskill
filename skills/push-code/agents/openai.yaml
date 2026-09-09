@@ -1,0 +1,4 @@
+interface:
+  display_name: "/qskill push-code"
+  short_description: "Commit, push, and open a pull request"
+  default_prompt: "Use $qskill:push-code to commit the requested changes, push them, and open a pull request."

@@ -1,5 +1,5 @@
 ---
-name: qskill-push-code
+name: push-code
 description: Use when asked to commit current code changes, push the branch, and open a pull request through the `/qskill push-code` workflow.
 ---
 
