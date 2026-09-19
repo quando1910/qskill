@@ -1,0 +1,20 @@
+{
+  "name": "quando",
+  "interface": {
+    "displayName": "Quando"
+  },
+  "plugins": [
+    {
+      "name": "qskill",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

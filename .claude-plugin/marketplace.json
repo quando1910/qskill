@@ -1,0 +1,14 @@
+{
+  "name": "quando",
+  "description": "Personal development workflow skills by Quan Do.",
+  "owner": {
+    "name": "Quan Do"
+  },
+  "plugins": [
+    {
+      "name": "qskill",
+      "source": "./",
+      "description": "Personal development workflow skills."
+    }
+  ]
+}
